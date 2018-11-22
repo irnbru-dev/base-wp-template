@@ -1,3 +1,3 @@
-BASE-WP-TEMPLATE
+h1 BASE-WP-TEMPLATE
 
 Очень простой шаблон для WordPress. Содержит основные файлы для создания темы + сборку на Gulp.
