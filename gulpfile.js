@@ -10,8 +10,8 @@ var gulp = require('gulp'),
 
 var path = {
     dest: {
-        css:        'wp-content/themes/oyster/css/',
-        js:         'wp-content/themes/oyster/js/'
+        css:        'wp-content/themes/MY_THEME/css/',
+        js:         'wp-content/themes/MY_THEME/js/'
     },
     src: {
         less:       'src/less/style.less',
